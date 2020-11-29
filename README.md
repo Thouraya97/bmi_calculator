@@ -14,11 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-<img src="screenshots/FemaleSelected.jpg" width="100" height="200">
-<img src="screenshots/HomeScreen1.jpg" width="100" height="200">
-<img src="screenshots/ResultPAge.jpg" width="100" height="200">
-<img src="screenshots/splashScreen.jpg" width="100" height="200">
-![](screenshots/FemaleSelected.jpg)]
-![][(screenshots/HomeScreen1.jpg)]
-![][(screenshots/ResultPAge.jpg)]
-![][(screenshots/splashScreen.jpg)]
+<img src="screenshots/FemaleSelected.jpg" width="150" height="300">
+<img src="screenshots/HomeScreen1.jpg" width="150 height="300">
+<img src="screenshots/ResultPAge.jpg" width="150 height="300">
+<img src="screenshots/splashScreen.jpg" width="150 height="300">
